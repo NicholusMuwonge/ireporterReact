@@ -1,0 +1,51 @@
+.carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  
+#navbarResponsive{
+    padding: 30px;
+}
+
+#cream{
+    background-color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.login{
+    color: black;
+    background-color: none;
+    font-weight: bolder;
+    border: 1px solid teal;
+}
+
+.login:hover{
+    background-color: teal;
+    color: white;
+}
+
+.signup{
+    background-color:none;
+    border: 1px solid purple;
+    color:black;
+    margin-left: left;
+    font-weight: bolder;
+}
+
+.signup:hover{
+    background-color: purple;
+    color: white;
+}
+
+.title{
+    font-size: xx-large;
+    color: rgb(17, 11, 11);
+    text-decoration: underline teal;
+
+}
