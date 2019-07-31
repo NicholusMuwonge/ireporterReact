@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Login /> it should render component without fail 1`] = `ShallowWrapper {}`;
+
+exports[`<Login /> it should render component without fail 2`] = `ShallowWrapper {}`;
+
+exports[`<Login /> it should render component without fail 3`] = `ShallowWrapper {}`;
+
+exports[`<Login /> it should render component without fail 4`] = `ShallowWrapper {}`;
+
+exports[`<Login /> it should render component without fail 5`] = `ShallowWrapper {}`;
